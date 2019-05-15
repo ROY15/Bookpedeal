@@ -2,7 +2,7 @@
 
 This is a book aggregator for shopping books online.
 
-Her we consider 5 wesite books. So this an example of web scripping from differnt website and to insert this data in mysql.
+Her we consider 5 wesite books. So this an example of web scripping from differnt website and to insert this data in mysql
 
 Guide to run this project
 
@@ -26,7 +26,7 @@ upload_max_filesize=750M
 To create the database in your system:
 1. open in your browser: "http://localhost/phpmyadmin/"
 2. create a database - 'booksweb' manually
-3. Go to import tab in 'booksweb' db and select the file 'booksweb.sql' from 'PYTHON PROJECT' folder.
+3. Go to import tab in 'booksweb' db and we will file from daatbase.zip.
 4. Ensure two tables are imported - 'book_book_data' & 'book_notify_me' with 2L and 5 rows respectively.
 
 
