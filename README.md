@@ -32,7 +32,7 @@ To create the database in your system:
 
 to run the app:
 1. open XAMPP Control Panel and start Apache and MySQL
-2. open prompt and go to 'BookWeb' directory on your harddisk eg- "D:\Aegis\Python\PYTHON PROJECT\BookWeb>"
+2. open prompt and go to 'BookWeb' directory on your harddisk eg- "D:\Xyz\BookWeb>"
 3. run - "python manage.py runserver"
 4. after execution you will get url such as - "http://127.0.0.1:8000/", copy that and paste in your browser, add "book/" to url before running it.
 
