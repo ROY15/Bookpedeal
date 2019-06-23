@@ -36,3 +36,6 @@ to run the app:
 3. run - "python manage.py runserver"
 4. after execution you will get url such as - "http://127.0.0.1:8000/", copy that and paste in your browser, add "book/" to url before running it.
 
+
+scrapingfiles.zip for scarping code for 5 website.
+
